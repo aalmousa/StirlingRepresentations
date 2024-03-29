@@ -8,8 +8,8 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Almousa
-    family-names: Ayah
+  - given-names: Ayah
+    family-names: Almousa
     email: ayah.almousa18@gmail.com
     affiliation: University of Minnesota - Twin Cities
     orcid: 'https://orcid.org/0000-0001-8548-6334'
