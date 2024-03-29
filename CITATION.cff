@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: StirlingRepresentations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Almousa
+    family-names: Ayah
+    email: ayah.almousa18@gmail.com
+    affiliation: University of Minnesota - Twin Cities
+    orcid: 'https://orcid.org/0000-0001-8548-6334'
+repository-code: 'https://github.com/aalmousa/StirlingRepresentations.git'
+keywords:
+  - 'symmetric functions, Koszul algebras'
+license: BSD-3-Clause
+commit: cd62ae418cbb26bbd091dee2b46b381fdfc3d448
+version: '1.0'
+date-released: '2024-03-29'
